@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "kehra",
+    "oncran": true
+  }
+]
